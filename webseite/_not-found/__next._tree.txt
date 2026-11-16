@@ -4,4 +4,4 @@
 :HL["/babyliebe-vorschau/webseite/_next/static/media/ac86cf4f83975ebf-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/babyliebe-vorschau/webseite/_next/static/media/c581a64716ea1c0e-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/babyliebe-vorschau/webseite/_next/static/css/6c3aed652494bd4a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"tLihNcBDnVwuMyTUdXjQX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"fAznzwjUlLdcvLlVhm_fr"}
