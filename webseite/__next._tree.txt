@@ -1,0 +1,8 @@
+:HL["/babyliebe-vorschau/webseite/_next/static/media/3f6d857d77a76d91-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/babyliebe-vorschau/webseite/_next/static/media/52d637060ef5e431-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/babyliebe-vorschau/webseite/_next/static/media/95df657f4fa6062f-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/babyliebe-vorschau/webseite/_next/static/media/ac86cf4f83975ebf-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/babyliebe-vorschau/webseite/_next/static/media/c581a64716ea1c0e-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/babyliebe-vorschau/webseite/_next/static/css/6c3aed652494bd4a.css","style"]
+:HL["/babyliebe-vorschau/webseite/_next/static/css/3bba6d537e3a7ef7.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"tLihNcBDnVwuMyTUdXjQX"}
